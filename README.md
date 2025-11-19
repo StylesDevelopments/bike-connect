@@ -14,13 +14,12 @@
   <a href="https://apps.apple.com/us/app/bike-connect-ride-smarter/id6746517051">
     <img height="90" src="https://github.com/user-attachments/assets/e8c9999a-7438-4fd9-b8ba-e61c31e392f0" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="comingsoon.com">
+  <a href="https://play.google.com/store/apps/details?id=com.stylesdevelopments.bikeconnect&utm_source=emea_Med">
     <img height="90" src="https://i.ibb.co/vC6bzG5N/Get-It-On-Google-Play-Badge-Web-color-English.png" />
   </a>
 </p>
 
-Bike Connect turns your Di2 bike’s handlebar buttons into controls for your iPhone, Apple Watch, and Mac. Control music and volume, view gear/battery/firmware, use your flashlight as a headlight, ring a virtual bell, and even trigger keyboard shortcuts to control any app (such as **Zwift**) on Mac.
+Bike Connect turns your Di2 bike’s handlebar buttons into controls for your iPhone, Apple Watch, Mac and Android. Control music and volume, view gear/battery/firmware, use your flashlight as a headlight, ring a virtual bell, and even trigger keyboard shortcuts to control any app (such as **Zwift**) on Mac.
 
 ## Features
 + Full music control — play, pause, and skip in Apple Music, Spotify, and more
@@ -41,6 +40,10 @@ A big 1.2.0 for Bike Connect! Revamped with Apple’s new Liquid Glass design an
 
 > [!TIP]
 > If you're running into issues with using the watchOS app, try updating your device to watchOS 26.
+
+## Android Details (Beta)
+Bike Connect for Android is currently in active development and improving rapidly.
+Want early access? → Open an issue or [Email us](mailto:watchcloud.app@gmail.com).
 
 ## Demo Videos 📱 💻 ⌚️ 👀
 
