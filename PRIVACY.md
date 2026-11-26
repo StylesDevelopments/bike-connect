@@ -8,7 +8,7 @@ This policy explains which personal data **Bike Connect: Ride In Control** for A
 
 Taylor Styles makes the app and is responsible for the personal data in this policy. Taylor is a sole trader in the United Kingdom and trades as StylesDevelopments ("we", "us").
 
-Email: watchcloud.app@gmail.com
+Email: StylesDevelopments22@gmail.com
 
 ## 2. In short
 
@@ -73,6 +73,7 @@ We do not sell your data, and we do not share it for advertising.
 - **Google.** Google runs Google Play and Android backup. Google decides how it uses your purchase, your crash reports, your backup and your rating, under the Google Privacy Policy. Google gives us only the records in section 5. Google also provides our email service, Gmail.
 - **Anthropic.** We use Claude, an AI assistant from Anthropic, to read and summarise reviews, crash reports, statistics and GitHub posts.
 - **GitHub.** Our private task list is on GitHub. We can copy review text or crash details into it to plan fixes.
+- **The developer of Bike Connect for iPhone.** Bike Connect for iPhone and older versions of the Android app show a different email address, watchcloud.app@gmail.com. The developer of Bike Connect for iPhone reads that inbox. If you send an email about the Android app to that address, the developer of Bike Connect for iPhone reads it and can forward it to us.
 - **Our accountant**, if we use one, to prepare our tax return.
 - **HM Revenue and Customs, a court or another authority**, when the law requires it.
 
@@ -114,4 +115,4 @@ We update this policy when the app, the services we use or the law changes. The 
 
 ## 12. Contact us
 
-Email watchcloud.app@gmail.com with any question about your data.
+Email StylesDevelopments22@gmail.com with any question about your data.

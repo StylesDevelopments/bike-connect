@@ -10,7 +10,7 @@ Nothing in these terms takes away your legal rights as a consumer.
 
 Taylor Styles makes the app and is responsible for it. Taylor is a sole trader in the United Kingdom and trades as StylesDevelopments ("we", "us").
 
-- Email: watchcloud.app@gmail.com
+- Email: StylesDevelopments22@gmail.com
 
 Bike Connect is an independent app. Shimano did not make, sponsor or approve it, and we have no connection with Shimano. Shimano and Di2 are trademarks of Shimano Inc.
 
@@ -125,4 +125,4 @@ If you live outside the United Kingdom, you also keep the protection of the cons
 
 ## 13. Contact us
 
-Email watchcloud.app@gmail.com for help, for a refund, or with a complaint.
+Email StylesDevelopments22@gmail.com for help, for a refund, or with a complaint.
