@@ -64,7 +64,7 @@ For advice about your rights, contact Citizens Advice in the UK, or the consumer
 ## 6. Other apps
 
 - **Media controls.** Play, pause, skip and the other media actions go to the media app that Android chooses. That app decides what happens.
-- **Send Hood Presses.** This setting is off until you turn it on. When it is on and your bike is connected, the app sends a message for each single or double tap. The message gives the side (left or right) and the tap (single or double). Any app on your phone that listens for this message can receive it, for example Tasker or MacroDroid. The message does not include your bike's name or Bluetooth address. You choose which apps listen and what they do.
+- **Send Hood Presses.** This setting is off until you turn it on. When it is on and your bike is connected, the app sends a message for each single or double tap. The message gives the side (left or right) and the tap (single or double). Any app on your phone that listens for this message can receive it, for example Tasker or MacroDroid. The message does not include your bike's name or Bluetooth address. You decide whether to turn it on. The app cannot choose which apps on your phone receive it. You choose which apps you install and what they do.
 - **Ratings.** Google Play may ask you to rate the app. Google shows this request and handles your rating.
 
 We do not control other apps, and we are not responsible for what they do.
@@ -94,7 +94,7 @@ We own the app, or we have permission to use the parts that others own.
 
 The app has no internet permission. It does not send any data to us. Data leaves the app in only three ways: the Send Hood Presses messages (section 6), Google Play ratings (section 6), and Android backup (below).
 
-The app keeps your settings on your phone: your hood button actions, your bell choice, your other settings, your bike's name and Bluetooth address, and when the app last asked you to rate it. If Android backup is on, Android can copy these settings to your Google account, so you can restore them on a new phone. Google runs this backup, not us.
+The app keeps your settings on your phone: your hood button actions, your bell sound, your other settings, your bike's name and Bluetooth address, and the number of rides and the date when the app last asked you to rate it. If Android backup is on, Android can copy these settings to your Google account, so you can restore them on a new phone. Google runs this backup, not us.
 
 Google Play gives us a record of each purchase, and statistics about installs, for example by country and phone model. If you let Android share usage and diagnostics data with Google, Google also gives us crash reports. If you email us, we keep your email to answer you.
 
